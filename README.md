@@ -4,6 +4,8 @@ Repository for all my projects associated with [https://www.treeofthought.com](h
 ## Usage
 Note, when cloning a repository the default provided by github.com is `git@github.com:treeofthought/<repo-name>.git`. In this default, replace `github.com` with the "Host" that maps the SSH key you're using for repository access. (`github-treeofthought` in my case)
 
+git config user.email "treeofthoughtblog@gmail.com" will give the correct git author in those repositories
+
 ## TODO
 * Set up SSH key for this email address to simplify multiple git users
 * Migrate website here
